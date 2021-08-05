@@ -1,7 +1,7 @@
 CONTENTS OF THIS FILE
 ---------------------
 * Introduction
-* Usage
+* Description
 * Requirements
 
 Introduction
